@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "0fec",
+      "name": "Ethel Johnston"
+    },
+    {
+      "id": "fc58",
+      "name": "Mr. Alberto Leuschke"
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "fb5c",
+      "userId": 1,
+      "title": "Practical Steel Chair"
+    },
+    {
+      "id": "cd11",
+      "userId": 1,
+      "title": "Generic Soft Bacon"
+    },
+    {
+      "id": "36f6",
+      "userId": 1,
+      "title": "Small Fresh Fish"
+    },
+    {
+      "id": "e5b8",
+      "userId": 1,
+      "title": "Ergonomic Steel Shirt"
+    },
+    {
+      "id": "6dbe",
+      "userId": 1,
+      "title": "Electronic Cotton Computer"
+    }
+  ],
+  "photos": [
+    {
+      "id": "eccb",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55308"
+    },
+    {
+      "id": "c6a5",
+      "albumId": "fb5c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=78169"
+    },
+    {
+      "id": "28d8",
+      "albumId": "fb5c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49483"
+    },
+    {
+      "id": "ba5d",
+      "albumId": "fb5c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=81408"
+    },
+    {
+      "id": "14c2",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98925"
+    },
+    {
+      "id": "7e09",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52318"
+    }
+  ]
+}
